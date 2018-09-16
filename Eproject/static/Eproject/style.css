@@ -1,0 +1,20 @@
+body {
+    background-color: khaki;
+}
+h2 {
+    background-color: aqua;
+    text-align: center;
+}
+li a {
+color: green;
+}
+li a:hover {
+    color:blue;
+}
+li:hover {
+    color:blue;
+}
+#div1 {
+    background-color: mediumspringgreen;
+
+}
